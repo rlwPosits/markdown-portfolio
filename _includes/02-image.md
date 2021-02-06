@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Bears Hugging](https://www.thesun.co.uk/wp-content/uploads/2017/03/nintchdbpict000311855734.jpg?w=620)
