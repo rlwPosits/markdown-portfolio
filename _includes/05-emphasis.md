@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+Exceptional *problem solving* skills and **fully commits** to projects. Languages studied include C++, Java, HTML, CSS, Javascript, PHP, and MySQL.
